@@ -14,7 +14,7 @@ A new Flutter Note Keeper application made with SQLite.
 3) Do flutter clean
 4) flutter run
 
-### Inspired by [SmartThread] (https://www.youtube.com/watch?v=fmPmrJGbb6w&list=PLlxmoA0rQ-Lw6tAs2fGFuXGP13-dWdKsB)
+Inspired by [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 
 ## Getting Started
 
